@@ -1,1 +1,1 @@
-# Spiinx-Logic-Patents
+# Sphinx-Logic-Patents
